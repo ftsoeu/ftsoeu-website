@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   viewBox="0 0 33.866666 33.866668"
+   version="1.1"
+   id="svg3654"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="logo-ftso-circle-2021colors.svg"
+   inkscape:export-filename="/home/giorgionetg/Scrivania/ftso.eu/assets/img/logo-ftso-free-2021.png"
+   inkscape:export-xdpi="384"
+   inkscape:export-ydpi="384">
+  <defs
+     id="defs3648" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="118.66935"
+     inkscape:cy="167.21975"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g1443"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3651">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1443"
+       transform="matrix(0.12685329,0,0,0.12685329,65.116914,15.579524)">
+      <circle
+         style="fill:#0055ff;fill-opacity:1;stroke-width:4.15164"
+         id="path1403"
+         cx="12.044938"
+         cy="-8.5913"
+         r="133.48753" />
+      <path
+         id="path1280-3"
+         style="fill:#0055ff;fill-opacity:1;stroke-width:1.33621"
+         inkscape:transform-center-x="-3.6732206e-06"
+         inkscape:transform-center-y="-18.109643"
+         d="M 57.238281 20.763672 A 3.6619391 3.6619391 0 0 0 54.0625 22.595703 L 30.326172 63.705078 A 3.6619391 3.6619391 0 0 0 33.498047 69.197266 L 66.300781 69.197266 L 80.96875 69.197266 L 94.501953 69.197266 A 3.6619391 3.6619391 0 0 0 97.673828 63.705078 L 83.572266 39.28125 A 3.6619391 3.6619391 0 0 0 77.228516 39.28125 L 73.634766 45.509766 L 60.404297 22.595703 A 3.6619391 3.6619391 0 0 0 57.238281 20.763672 z M 42.191406 78.148438 C 41.269922 78.148438 40.255469 78.24183 39.333984 78.333984 C 37.675304 78.518279 36.109142 79.071053 34.634766 79.900391 C 32.97609 80.821879 31.684804 82.204256 30.855469 83.955078 C 30.394726 84.968714 30.119498 85.982108 30.027344 87.087891 C 29.935185 87.364337 29.935547 87.73297 29.935547 88.101562 L 29.935547 88.193359 L 85.728516 88.193359 C 86.74215 88.193359 87.754297 88.192121 88.675781 88.007812 C 90.242312 87.731367 91.809174 87.272346 93.191406 86.535156 C 95.034376 85.613671 96.416754 84.137544 97.246094 82.386719 C 97.706836 81.188788 97.984018 79.990903 98.076172 78.792969 L 98.076172 78.148438 L 42.191406 78.148438 z M 59.212891 97.191406 C 58.291411 97.191406 57.278902 97.282846 56.357422 97.375 C 54.698742 97.559295 53.13258 98.112069 51.658203 98.941406 C 49.999533 99.862895 48.708246 101.24527 47.878906 102.99609 C 47.418164 104.00973 47.142935 105.02508 47.050781 106.13086 C 46.958627 106.40731 46.957031 106.77594 46.957031 107.14453 L 46.957031 107.23633 L 68.705078 107.23633 C 69.718712 107.23633 70.732817 107.23509 71.654297 107.05078 C 73.220828 106.77434 74.785742 106.31336 76.167969 105.57617 C 78.010943 104.65469 79.393316 103.18051 80.222656 101.42969 C 80.683394 100.23176 80.960585 99.033872 81.052734 97.835938 L 81.052734 97.191406 L 59.212891 97.191406 z "
+         transform="matrix(2.0857428,0,0,2.0857428,-513.3246,-122.81529)" />
+      <circle
+         style="fill:#91afea;fill-opacity:1;stroke-width:4.15165"
+         id="path1403-1"
+         cx="164.23146"
+         cy="14.247804"
+         r="133.48753" />
+    </g>
+  </g>
+</svg>

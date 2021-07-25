@@ -1,2 +1,0 @@
-# ftsoeu-website
-own website

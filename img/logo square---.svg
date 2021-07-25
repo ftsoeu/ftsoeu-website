@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="40.739635mm"
+   height="40.739635mm"
+   viewBox="0 0 40.739635 40.739635"
+   version="1.1"
+   id="svg1831"
+   inkscape:export-filename="/home/giorgionetg/Scrivania/ftso.eu/assets/img/apple-icon.png"
+   inkscape:export-xdpi="79.800003"
+   inkscape:export-ydpi="79.800003"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="logo square---.svg">
+  <defs
+     id="defs1825" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="82.634514"
+     inkscape:cy="146.93325"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1686"
+     inkscape:window-height="752"
+     inkscape:window-x="173"
+     inkscape:window-y="294"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata1828">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-103.08053,-71.593561)">
+    <path
+       id="rect1429-5"
+       style="fill:#0055ff;fill-opacity:1;stroke-width:1.07849"
+       d="m 408.20508,270.58984 c -10.31006,0 -18.60938,8.29934 -18.60938,18.60938 v 116.75781 c 0,10.31002 8.29932,18.60938 18.60938,18.60938 h 116.75781 c 10.31002,0 18.60938,-8.29936 18.60938,-18.60938 V 289.19922 c 0,-10.31004 -8.29936,-18.60938 -18.60938,-18.60938 z m 50.12304,24.19532 a 4.4713533,4.4713533 0 0 1 3.86524,2.23632 L 478.34766,325 l 4.39062,-7.60352 a 4.4713533,4.4713533 0 0 1 7.74414,0 l 17.2168,29.82032 a 4.4713533,4.4713533 0 0 1 -3.8711,6.70703 H 487.30273 469.39258 429.3418 a 4.4713533,4.4713533 0 0 1 -3.87305,-6.70703 l 28.98047,-50.19532 a 4.4713533,4.4713533 0 0 1 3.8789,-2.23632 z m -18.37304,70.09765 h 68.23633 v 0.78711 c -0.11263,1.46272 -0.44914,2.92596 -1.01172,4.38867 -1.01269,2.13782 -2.70088,3.9393 -4.95117,5.06446 -1.68779,0.90013 -3.60086,1.46128 -5.51368,1.79883 -1.12516,0.22502 -2.36192,0.22656 -3.59961,0.22656 h -68.125 v -0.11328 c 0,-0.45007 -10e-4,-0.90075 0.11133,-1.23828 0.11263,-1.3502 0.45109,-2.58654 1.01367,-3.82422 1.01265,-2.13782 2.58799,-3.82601 4.61329,-4.95118 1.80026,-1.01265 3.71298,-1.68903 5.73828,-1.91406 1.12516,-0.11251 2.36311,-0.22461 3.48828,-0.22461 z m 20.78515,23.22266 h 26.66602 v 0.78906 c -0.11263,1.46272 -0.44914,2.92401 -1.01172,4.38672 -1.01265,2.13781 -2.70084,3.93929 -4.95117,5.06445 -1.68775,0.90014 -3.60089,1.46128 -5.51367,1.79883 -1.12517,0.22526 -2.36193,0.22656 -3.59961,0.22656 h -26.55469 v -0.11328 c 0,-0.45003 6.5e-4,-0.90073 0.11328,-1.23828 0.11263,-1.3502 0.44914,-2.58654 1.01172,-3.82422 1.01265,-2.13781 2.58798,-3.826 4.61328,-4.95117 1.80027,-1.01265 3.71299,-1.68903 5.73828,-1.91406 1.12517,-0.11263 2.36312,-0.22461 3.48828,-0.22461 z"
+       transform="scale(0.26458333)"
+       inkscape:export-xdpi="79.800003"
+       inkscape:export-ydpi="79.800003" />
+  </g>
+</svg>
